@@ -18,3 +18,8 @@ Miscellaneous 3d printing models.
 
 - [0xffd700.com](https://0xffd700.com/on-air-inductive-power-night-light)
 ![sketch1677708159314](https://user-images.githubusercontent.com/19951276/222278818-a476a36c-fd13-4f70-9fbd-b1da3fb6a41c.png)
+
+## Cyber Champion Awards
+
+![prototyp](https://user-images.githubusercontent.com/19951276/225053948-6b2df5c2-332a-43da-b52d-94d1d123134d.jpeg)
+
